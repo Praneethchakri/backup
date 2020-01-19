@@ -208,7 +208,7 @@ public class DynamoAutomaticThroughPut {
 			if (tableStatus.equals(TableStatus.ACTIVE.toString()))
 				return;
 			try { Thread.sleep(1000 * 20);
-				System.out.println("thead sleep try enterd..");
+				System.out.println("thead sleep try enterd..Sushma Change");  
 			} 
 			catch (Exception e) { }
 				}
